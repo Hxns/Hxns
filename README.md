@@ -1,14 +1,10 @@
 <div align="center">
 
-### `> Cybersecurity Engineer · IT Auditor · Homelab Tinkerer`
-`// Hans Herzfelder`
+# Hans Herzfelder
 
-![Madrid](https://img.shields.io/badge/Madrid-España-0a0a0a?style=flat-square&logo=googlemaps&logoColor=00ff41&labelColor=0a0a0a)
-![ISO 27001](https://img.shields.io/badge/ISO_27001:2022-Lead_Auditor-0a0a0a?style=flat-square&logo=adobe&logoColor=00ff41&labelColor=0a0a0a)
-![Focus](https://img.shields.io/badge/Focus-Blue_/_Purple_Team-0a0a0a?style=flat-square&logo=hackthebox&logoColor=00ff41&labelColor=0a0a0a)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;IT+Auditor+%C2%B7+ISO+27001+%C2%B7+ENS;Homelab+Tinkerer;Blue+%2F+Purple+Team" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-herzfelder-0a0a0a?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=0a0a0a)](https://www.linkedin.com/in/herzfelder/)
-[![Email](https://img.shields.io/badge/Email-dev.herzfelder-0a0a0a?style=flat-square&logo=gmail&logoColor=00ff41&labelColor=0a0a0a)](mailto:dev.herzfelder@gmail.com)
+`Madrid, España`
 
 </div>
 
@@ -54,59 +50,57 @@ $ cat featured_projects.md
 $ ls -la ./skills/
 ```
 
-**🛡️ Auditoría & Cumplimiento / `Audit & Compliance`**
+**🛡️ Auditoría & Cumplimiento / Audit & Compliance**
 
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0a0a0a?style=flat-square&logoColor=00ff41)
-![ENS](https://img.shields.io/badge/ENS-0a0a0a?style=flat-square&logoColor=00ff41)
-![MAGERIT](https://img.shields.io/badge/MAGERIT-0a0a0a?style=flat-square&logoColor=00ff41)
-![OWASP](https://img.shields.io/badge/OWASP-0a0a0a?style=flat-square&logo=owasp&logoColor=00ff41)
-![Prowler](https://img.shields.io/badge/Prowler-0a0a0a?style=flat-square&logoColor=00ff41)
-![CIS-CAT](https://img.shields.io/badge/CIS--CAT-0a0a0a?style=flat-square&logoColor=00ff41)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-555?style=flat-square)
+![ENS](https://img.shields.io/badge/ENS-555?style=flat-square)
+![MAGERIT](https://img.shields.io/badge/MAGERIT-555?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-555?style=flat-square&logo=owasp&logoColor=white)
+![Prowler](https://img.shields.io/badge/Prowler-555?style=flat-square)
+![CIS-CAT](https://img.shields.io/badge/CIS--CAT-555?style=flat-square)
 
 **🔵 Blue Team & SOC**
 
-![Splunk](https://img.shields.io/badge/Splunk-0a0a0a?style=flat-square&logo=splunk&logoColor=00ff41)
-![Wazuh](https://img.shields.io/badge/Wazuh-0a0a0a?style=flat-square&logo=wazuh&logoColor=00ff41)
-![Security Onion](https://img.shields.io/badge/Security_Onion-0a0a0a?style=flat-square&logoColor=00ff41)
-![Suricata](https://img.shields.io/badge/Suricata-0a0a0a?style=flat-square&logoColor=00ff41)
-![pfSense](https://img.shields.io/badge/pfSense-0a0a0a?style=flat-square&logo=pfsense&logoColor=00ff41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0a0a0a?style=flat-square&logo=wireshark&logoColor=00ff41)
+![Splunk](https://img.shields.io/badge/Splunk-555?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-555?style=flat-square&logoColor=white)
+![Security Onion](https://img.shields.io/badge/Security_Onion-555?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-555?style=flat-square)
+![pfSense](https://img.shields.io/badge/pfSense-555?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-555?style=flat-square&logo=wireshark&logoColor=white)
 
 **🔴 Red Team & Pentesting**
 
-![Metasploit](https://img.shields.io/badge/Metasploit-0a0a0a?style=flat-square&logo=metasploit&logoColor=00ff41)
-![Nmap](https://img.shields.io/badge/Nmap-0a0a0a?style=flat-square&logoColor=00ff41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0a?style=flat-square&logo=burpsuite&logoColor=00ff41)
-![SQLMap](https://img.shields.io/badge/SQLMap-0a0a0a?style=flat-square&logoColor=00ff41)
-![Hydra](https://img.shields.io/badge/Hydra-0a0a0a?style=flat-square&logoColor=00ff41)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0a0a0a?style=flat-square&logo=owasp&logoColor=00ff41)
+![Metasploit](https://img.shields.io/badge/Metasploit-555?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-555?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-555?style=flat-square&logo=burpsuite&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-555?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-555?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-555?style=flat-square&logo=owasp&logoColor=white)
 
-**☁️ Cloud & Infraestructura / `Cloud & Infra`**
+**☁️ Cloud & Infraestructura / Cloud & Infra**
 
-![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonaws&logoColor=00ff41)
-![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=flat-square&logo=microsoftazure&logoColor=00ff41)
-![GCP](https://img.shields.io/badge/GCP-0a0a0a?style=flat-square&logo=googlecloud&logoColor=00ff41)
-![Proxmox](https://img.shields.io/badge/Proxmox-0a0a0a?style=flat-square&logo=proxmox&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=00ff41)
+![AWS](https://img.shields.io/badge/AWS-555?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-555?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-555?style=flat-square&logo=googlecloud&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-555?style=flat-square&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-555?style=flat-square&logo=linux&logoColor=white)
 
-**💻 Desarrollo / `Development`**
+**💻 Desarrollo / Development**
 
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00ff41)
-![.NET](https://img.shields.io/badge/.NET-0a0a0a?style=flat-square&logo=dotnet&logoColor=00ff41)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-555?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 <div align="center">
 
-```bash
-$ cat ./certs/* | grep "ISO\|ENS"
-```
+🎓 **ISO/IEC 27001:2022 Lead Internal Auditor** — Bureau Veritas · 2025
 
-🎓 **ISO/IEC 27001:2022 Lead Internal Auditor** — Bureau Veritas
-🎓 **Auditorías en el Esquema Nacional de Seguridad (ENS)** — CCN-CERT
-🎓 **Máster en Ciberseguridad** — IMF Smart Education & UCAV
+🎓 **Auditorías en el Esquema Nacional de Seguridad (ENS)** — CCN-CERT · 2023
+
+🎓 **Máster en Ciberseguridad** — IMF Smart Education & UCAV · 2026
 
 </div>
 
@@ -114,13 +108,7 @@ $ cat ./certs/* | grep "ISO\|ENS"
 
 <div align="center">
 
-```bash
-$ uptime --status
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hxns&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff&icon_color=00ff41)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxns&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hxns&show_icons=true&hide_border=true&bg_color=00000000&title_color=888&text_color=888&icon_color=888)
 
 </div>
 
@@ -128,7 +116,6 @@ $ uptime --status
 
 <div align="center">
 
-`"Security is not a product, but a process."` — Bruce Schneier
+*"Security is not a product, but a process."* — Bruce Schneier
 
 </div>
-
