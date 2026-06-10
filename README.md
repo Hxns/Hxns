@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hans Herzfelder
+# Hans Eliot Herzfelder
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;IT+Auditor+%C2%B7+ISO+27001+%C2%B7+ENS;Homelab+Tinkerer;Blue+%2F+Purple+Team" alt="Typing SVG" />
 
